@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **Software Development combined with Data Science**
 
-- 🌱 I’m currently learning **nextJs and Python**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **both frontend and Data Science projects**
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/nkansah_king" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nkansah_king" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/kingkyerehnkansah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kingkyerehnkansah" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/in/kingkyerehnkansah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagarm.svg" alt="in/kingkyerehnkansah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
