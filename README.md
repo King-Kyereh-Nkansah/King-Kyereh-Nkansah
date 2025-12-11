@@ -1,71 +1,88 @@
 <h1 align="center">Hi 👋, I'm King Kyereh Nkansah</h1>
-<h3 align="center">A passionate Frontend Developer from Ghana</h3>
+<h3 align="center">Frontend Developer | Learning Backend with Laravel | Ghana 🇬🇭</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=king-kyereh-nkansah&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I am a **Frontend Developer** focused on building clean, responsive, and modern web interfaces.  
+- 🌱 Currently learning **Backend Development with Laravel** (APIs, authentication, databases).  
+- ⚛️ Actively building projects with **React**.  
+- 🤝 Open to collaborating on **frontend projects**, **full-stack Laravel + React** projects.  
+- 📩 Reach me at **kingnkansah4@gmail.com**  
+- 🚀 Passionate about creating **real-world, scalable, and user-friendly applications**.
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=king-kyereh-nkansah&label=Profile%20views&color=0e75b6&style=flat" alt="king-kyereh-nkansah" />
+  <a href="https://twitter.com/nkansah_king" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/kingkyerehnkansah" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://instagram.com/kingkyereh_nkansah" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
 </p>
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=king-kyereh-nkansah" alt="king-kyereh-nkansah" />
- </a>
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="45" />
+  <img src="https://skillicons.dev/icons?i=php" width="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+  <img src="https://skillicons.dev/icons?i=figma" width="45" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
 </p>
 
-- 🔭 I’m currently a **Frontend Developer** building clean and responsive web interfaces.  
-- 🌱 I’m currently learning **Backend Development with Laravel (APIs, authentication, database design)**  
-- ⚛️ I actively use **React** for modern frontend development.  
-- 👯 I’m looking to collaborate on **frontend projects and full-stack Laravel + React applications**  
-- 📫 How to reach me: **kingnkansah4@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nkansah_king" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/kingkyerehnkansah" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/kingkyereh_nkansah" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=king-kyereh-nkansah&show_icons=true&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-kyereh-nkansah&layout=compact&theme=default&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
- </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
- </a>
- <a href="https://react.dev/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
- </a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
- </a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
- </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
- </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
- </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king-kyereh-nkansah&theme=default&hide_border=true" />
 </p>
 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=king-kyereh-nkansah&show_icons=true&locale=en&layout=compact" alt="king-kyereh-nkansah" />
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=king-kyereh-nkansah&theme=flat&no-bg=true&margin-w=10" />
 </p>
 
-<p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=king-kyereh-nkansah&show_icons=true&locale=en" alt="king-kyereh-nkansah" />
-</p>
+---
 
-<p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king-kyereh-nkansah" alt="king-kyereh-nkansah" />
-</p>
+## 🚀 Featured Projects (Add Your Projects Here)
+
+- 🔗 **Project 1** – A modern frontend UI built with React & Tailwind.  
+- 🔗 **Project 2** – Laravel backend API with authentication & database design.  
+- 🔗 **Project 3** – Full-stack project (React + Laravel).  
+
+_Add links when they are ready._
+
+---
+
+## 💬 Final Note
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you want to build something together 🚀
+
