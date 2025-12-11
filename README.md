@@ -9,12 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I am a **Frontend Developer** focused on building clean, responsive, and modern web interfaces.  
-- 🌱 Currently learning **Backend Development with Laravel** (APIs, authentication, databases).  
-- ⚛️ Actively building projects with **React**.  
-- 🤝 Open to collaborating on **frontend projects**, **full-stack Laravel + React** projects.  
-- 📩 Reach me at **kingnkansah4@gmail.com**  
-- 🚀 Passionate about creating **real-world, scalable, and user-friendly applications**.
+- 🔭 I'm a **Frontend Developer** passionate about creating modern, fast, and responsive web applications.  
+- 🌱 I'm currently learning **Backend Development with Laravel** (APIs, authentication, database design).  
+- ⚛️ I actively build projects using **React** to strengthen my frontend skills.  
+- 🤝 I'm open to collaborating on **frontend** and **full-stack (React + Laravel)** projects.  
+- 📩 Reach me at **kingnkansah4@gmail.com**
 
 ---
 
@@ -42,11 +41,11 @@
   <img src="https://skillicons.dev/icons?i=javascript" width="45" />
   <img src="https://skillicons.dev/icons?i=react" width="45" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
-  <img src="https://skillicons.dev/icons?i=laravel" width="45" />
   <img src="https://skillicons.dev/icons?i=php" width="45" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="45" />
   <img src="https://skillicons.dev/icons?i=mysql" width="45" />
-  <img src="https://skillicons.dev/icons?i=figma" width="45" />
   <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=figma" width="45" />
 </p>
 
 ---
@@ -54,12 +53,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=king-kyereh-nkansah&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-kyereh-nkansah&layout=compact&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=king-kyereh-nkansah&show_icons=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-kyereh-nkansah&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=king-kyereh-nkansah&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=king-kyereh-nkansah&theme=transparent" />
 </p>
 
 ---
@@ -67,22 +66,22 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=king-kyereh-nkansah&theme=flat&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=king-kyereh-nkansah&theme=flat&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-## 🚀 Featured Projects (Add Your Projects Here)
+## 🚀 Featured Projects
 
-- 🔗 **Project 1** – A modern frontend UI built with React & Tailwind.  
-- 🔗 **Project 2** – Laravel backend API with authentication & database design.  
-- 🔗 **Project 3** – Full-stack project (React + Laravel).  
+_Add your project links here when ready._
 
-_Add links when they are ready._
+- 🔗 **Project 1:** Modern React UI  
+- 🔗 **Project 2:** Laravel API with authentication  
+- 🔗 **Project 3:** Full-stack app (React + Laravel)
 
 ---
 
 ## 💬 Final Note
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you want to build something together 🚀
-
+Thanks for stopping by!  
+Feel free to explore my repos or reach out if you'd like to collaborate 🚀
